@@ -1,0 +1,1 @@
+# java-springboot3-springsecurity6-authbasic
